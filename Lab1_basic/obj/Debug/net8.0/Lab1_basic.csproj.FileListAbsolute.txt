@@ -1,0 +1,14 @@
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\bin\Debug\net8.0\Lab1_basic.exe
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\bin\Debug\net8.0\Lab1_basic.deps.json
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\bin\Debug\net8.0\Lab1_basic.runtimeconfig.json
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\bin\Debug\net8.0\Lab1_basic.dll
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\bin\Debug\net8.0\Lab1_basic.pdb
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.AssemblyInfoInputs.cache
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.AssemblyInfo.cs
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.csproj.CoreCompileInputs.cache
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.dll
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\refint\Lab1_basic.dll
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.pdb
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\Lab1_basic.genruntimeconfig.cache
+C:\Users\nikzv\RiderProjects\Lab1_basic\Lab1_basic\obj\Debug\net8.0\ref\Lab1_basic.dll
